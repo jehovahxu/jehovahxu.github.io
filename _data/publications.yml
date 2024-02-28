@@ -20,17 +20,17 @@ main:
   #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
-    - title: "A Multicenter Clinical AI System Study for Detection and Diagnosis of Focal Liver Lesions"
+    - title: "A multicenter clinical AI system study for detection and diagnosis of focal liver lesions"
       # authors: <strong>Xingxin Xu</strong>, Caobing, ect.
       conference_short: NCOMMS
       conference: Nature Communications
-      # pdf: https://ieeexplore.ieee.org/abstract/document/9944137
+      pdf: https://www.nature.com/articles/s41467-024-45325-9
       # code: https://github.com/jehovahxu/ca-gan
-      # image: ./assets/img/CCF_architecture.png
+      image: ./assets/img/LiAIDS.png
       
     - title: "Conditional Controllable Image Fusion"
       authors: <strong>Xingxin Xu</strong>, Caobing, ect.
-      conference_short: IJCAI
+      conference_short: IJCAI(Under Review)
       conference: International Joint Conferences on Artificial Intelligence 
       # pdf: https://ieeexplore.ieee.org/abstract/document/9944137
       # code: https://github.com/jehovahxu/ca-gan
