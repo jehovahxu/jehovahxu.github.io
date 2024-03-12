@@ -26,7 +26,7 @@ main:
       conference: Nature Communications
       pdf: https://www.nature.com/articles/s41467-024-45325-9
       # code: https://github.com/jehovahxu/ca-gan
-      image: ./assets/img/LiAIDS.png
+      image: ./assets/img/LIAIDS.png
       
     - title: "Conditional Controllable Image Fusion"
       authors: <strong>Xingxin Xu</strong>, Caobing, ect.
