@@ -22,7 +22,7 @@ main:
   #   image: ./assets/img/teaser_example.png
         
     - title: "Conditional Controllable Image Fusion"
-      authors: <strong>Xingxin Xu</strong>, Caobing, ect.
+      authors: Caobing, <strong>Xingxin Xu</strong>, ect.
       conference_short: NeurIPS
       conference: Conference on Neural Information Processing Systems
       # pdf: https://ieeexplore.ieee.org/abstract/document/9944137
