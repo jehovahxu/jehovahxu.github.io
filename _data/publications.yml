@@ -27,7 +27,7 @@ main:
       conference: Conference on Neural Information Processing Systems
       # pdf: https://ieeexplore.ieee.org/abstract/document/9944137
       # code: https://github.com/jehovahxu/ca-gan
-      image: ./assets/img/CCF_architecture.png
+      image: ./assets/img/ccf_framework.png
       
     - title: "A multicenter clinical AI system study for detection and diagnosis of focal liver lesions"
       # authors: <strong>Xingxin Xu</strong>, Caobing, ect.
