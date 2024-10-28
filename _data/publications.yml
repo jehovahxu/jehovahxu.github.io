@@ -20,6 +20,15 @@ main:
   #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
+        
+    - title: "Conditional Controllable Image Fusion"
+      authors: <strong>Xingxin Xu</strong>, Caobing, ect.
+      conference_short: NeurIPS
+      conference: Conference on Neural Information Processing Systems
+      # pdf: https://ieeexplore.ieee.org/abstract/document/9944137
+      # code: https://github.com/jehovahxu/ca-gan
+      image: ./assets/img/CCF_architecture.png
+      
     - title: "A multicenter clinical AI system study for detection and diagnosis of focal liver lesions"
       # authors: <strong>Xingxin Xu</strong>, Caobing, ect.
       conference_short: NCOMMS
@@ -27,14 +36,7 @@ main:
       pdf: https://www.nature.com/articles/s41467-024-45325-9
       # code: https://github.com/jehovahxu/ca-gan
       image: ./assets/img/LIAIDS.png
-      
-    - title: "Conditional Controllable Image Fusion"
-      authors: <strong>Xingxin Xu</strong>, Caobing, ect.
-      conference_short: IJCAI(Under Review)
-      conference: International Joint Conferences on Artificial Intelligence 
-      # pdf: https://ieeexplore.ieee.org/abstract/document/9944137
-      # code: https://github.com/jehovahxu/ca-gan
-      image: ./assets/img/CCF_architecture.png
+
       
     - title: "A knowledge-guided framework for fine-grained classification of liver lesions based on multi-phase CT images"
       authors: <strong>Xingxin Xu</strong>, Qikui Zhu, Hanning Ying, Jiongcheng Li, Xiujun Cai, Shuo Li, Xiaoqing Liu, Yizhou Yu
