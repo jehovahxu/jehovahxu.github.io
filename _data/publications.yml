@@ -27,7 +27,7 @@ main:
       conference: Conference on Neural Information Processing Systems
       # pdf: https://ieeexplore.ieee.org/abstract/document/9944137
       # code: https://github.com/jehovahxu/ca-gan
-      image: ./assets/img/red_framework.pdf
+      image: ./assets/img/RED_framework.png
 
       
     - title: "Dream-IF: Dynamic Relative EnhAnceMent for Image Fusion"
