@@ -32,8 +32,8 @@ main:
       
     - title: "Dream-IF: Dynamic Relative EnhAnceMent for Image Fusion"
       authors: <strong>Xingxin Xu</strong>, ect.
-      conference_short: ICCV (under review)
-      conference: International Conference on Computer Vision
+      conference_short: AAAI
+      conference: Annual AAAI Conference on Artificial Intelligence
       pdf: https://arxiv.org/abs/2503.10109
       # code: https://github.com/jehovahxu/ca-gan
       image: ./assets/img/DreamIF_framework.png
