@@ -23,8 +23,8 @@ main:
 
     - title: "Reversible Efficient Diffusion for Image Fusion"
       authors: <strong>Xingxin Xu</strong>, ect.
-      conference_short: NeurIPS (under review)
-      conference: Conference on Neural Information Processing Systems
+      conference_short: CVPR (under review)
+      conference: Conference on Computer Vision and Pattern Recognition
       # pdf: https://ieeexplore.ieee.org/abstract/document/9944137
       # code: https://github.com/jehovahxu/ca-gan
       image: ./assets/img/RED_framework.png
